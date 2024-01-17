@@ -54,7 +54,7 @@ p.fullDescription {
 .mainContainer{
     margin: 16px;
     margin-top: 0px;
-    border: red solid 2px;
+    /* border: red solid 2px; */
 }
 
 .timeAndDate p{
