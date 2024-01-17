@@ -1,0 +1,88 @@
+.timeAndDate {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    margin-top: 7px;
+}
+
+.description {
+    border-radius: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 14px;
+    padding-top: 2.8rem;
+}
+
+.bgOne{
+    background: rgb(227, 233, 235);
+}
+
+.bgTwo{
+    background: #e2f3e2;
+}
+
+.firstImg{
+    border-radius: 30px;
+    border: #ffffff 10px solid;
+    margin-bottom: 5px;
+    position: relative;
+    top: 4rem;
+    width: 80%;
+}
+
+.imageContainer {
+    /* border: red 2px solid; */
+    text-align: center;
+}
+
+.mixHeading{
+    margin-bottom: 0px;
+    margin-top: 0PX;
+}
+
+p.fullDescription {
+    overflow: hidden;
+    /* white-space: nowrap; */
+    text-overflow: ellipsis;
+    max-height: 60px;
+    font-size: 0.8rem;
+}
+
+
+.mainContainer{
+    margin: 16px;
+}
+
+.timeAndDate p{
+    font-size: 0.7rem;
+} 
+
+.readText{
+    font-size: 0.7rem;
+}
+
+button{
+    background: transparent;
+    border:0px;
+    cursor: pointer;
+    text-align: left;
+}
+
+body>p{
+    padding: 15px;
+    color: rgb(128, 128, 196);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 16px;
+    padding-bottom: 0px;
+}
+
+body>h1{
+    padding: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 3rem;
+}
